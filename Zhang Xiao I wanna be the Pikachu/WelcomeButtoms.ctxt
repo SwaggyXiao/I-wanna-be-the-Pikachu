@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=WelcomeButtoms
+comment1.params=image
+comment1.target=WelcomeButtoms(java.lang.String)
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ checkClicking()
+comment5.params=
+comment5.target=void\ initImages()
+numComments=6

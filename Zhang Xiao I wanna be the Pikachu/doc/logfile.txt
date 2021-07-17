@@ -1,0 +1,59 @@
+Project documentation
+<---- javadoc command: ---->
+/Applications/Greenfoot.app/Contents/JDK/Home/bin/javadoc
+-sourcepath
+/Users/torontoraptors/Desktop/I wanna Pikachu
+-source
+11
+-classpath
+/Applications/Greenfoot.app/Contents/Resources/Java/extensions/greenfoot.jar:/Applications/Greenfoot.app/Contents/Resources/Java/bluejcore.jar:/Applications/Greenfoot.app/Contents/Resources/Java/bluejeditor.jar:/Applications/Greenfoot.app/Contents/Resources/Java/bluejext.jar:/Applications/Greenfoot.app/Contents/Resources/Java/junit-4.11.jar:/Applications/Greenfoot.app/Contents/Resources/Java/hamcrest-core-1.3.jar:/Applications/Greenfoot.app/Contents/Resources/Java/bluej.jar:/Applications/Greenfoot.app/Contents/Resources/Java/classgraph-4.2.6.jar:/Applications/Greenfoot.app/Contents/Resources/Java/diffutils-1.2.1.jar:/Applications/Greenfoot.app/Contents/Resources/Java/commons-logging-api-1.1.2.jar:/Applications/Greenfoot.app/Contents/Resources/Java/jl1.0.1.jar:/Applications/Greenfoot.app/Contents/Resources/Java/opencsv-2.3.jar:/Applications/Greenfoot.app/Contents/Resources/Java/xom-1.2.9.jar:/Applications/Greenfoot.app/Contents/Resources/Java/lang-stride.jar:/Applications/Greenfoot.app/Contents/Resources/Java/nsmenufx-2.1.4.jar:/Applications/Greenfoot.app/Contents/Resources/Java/richtextfx-fat-0.9.0.jar:/Applications/Greenfoot.app/Contents/Resources/Java/guava-17.0.jar:/Applications/Greenfoot.app/Contents/Resources/Java/httpclient-4.1.1.jar:/Applications/Greenfoot.app/Contents/Resources/Java/httpcore-4.1.jar:/Applications/Greenfoot.app/Contents/Resources/Java/httpmime-4.1.1.jar:/Applications/Greenfoot.app/Contents/Resources/Java/javafx/lib/javafx.base.jar:/Applications/Greenfoot.app/Contents/Resources/Java/javafx/lib/javafx.controls.jar:/Applications/Greenfoot.app/Contents/Resources/Java/javafx/lib/javafx.fxml.jar:/Applications/Greenfoot.app/Contents/Resources/Java/javafx/lib/javafx.graphics.jar:/Applications/Greenfoot.app/Contents/Resources/Java/javafx/lib/javafx.media.jar:/Applications/Greenfoot.app/Contents/Resources/Java/javafx/lib/javafx.properties.jar:/Applications/Greenfoot.app/Contents/Resources/Java/javafx/lib/javafx.swing.jar:/Applications/Greenfoot.app/Contents/Resources/Java/javafx/lib/javafx.web.jar:/Users/torontoraptors/Desktop/I wanna Pikachu
+-d
+/Users/torontoraptors/Desktop/I wanna Pikachu/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-doctitle
+I wanna Pikachu
+-windowtitle
+I wanna Pikachu
+-author
+-version
+-nodeprecated
+-protected
+-Xdoclint:none
+-link
+https://docs.oracle.com/en/java/javase/11/docs/api/
+/Users/torontoraptors/Desktop/I wanna Pikachu/Heart.java
+/Users/torontoraptors/Desktop/I wanna Pikachu/Thunder.java
+/Users/torontoraptors/Desktop/I wanna Pikachu/Rock.java
+/Users/torontoraptors/Desktop/I wanna Pikachu/littleZhi.java
+/Users/torontoraptors/Desktop/I wanna Pikachu/Bird.java
+/Users/torontoraptors/Desktop/I wanna Pikachu/Attention.java
+/Users/torontoraptors/Desktop/I wanna Pikachu/Game_Over_Sign.java
+/Users/torontoraptors/Desktop/I wanna Pikachu/Blood.java
+/Users/torontoraptors/Desktop/I wanna Pikachu/Pikachu.java
+/Users/torontoraptors/Desktop/I wanna Pikachu/Apple.java
+/Users/torontoraptors/Desktop/I wanna Pikachu/Cloud.java
+/Users/torontoraptors/Desktop/I wanna Pikachu/Demage.java
+/Users/torontoraptors/Desktop/I wanna Pikachu/ground.java
+/Users/torontoraptors/Desktop/I wanna Pikachu/MyWorld.java
+<---- end of javadoc command ---->
+Loading source file /Users/torontoraptors/Desktop/I wanna Pikachu/Heart.java...
+/Users/torontoraptors/Desktop/I wanna Pikachu/Heart.java:6: error: illegal start of expression
+       if(){
+          ^
+Loading source file /Users/torontoraptors/Desktop/I wanna Pikachu/Thunder.java...
+Loading source file /Users/torontoraptors/Desktop/I wanna Pikachu/Rock.java...
+Loading source file /Users/torontoraptors/Desktop/I wanna Pikachu/littleZhi.java...
+Loading source file /Users/torontoraptors/Desktop/I wanna Pikachu/Bird.java...
+Loading source file /Users/torontoraptors/Desktop/I wanna Pikachu/Attention.java...
+Loading source file /Users/torontoraptors/Desktop/I wanna Pikachu/Game_Over_Sign.java...
+Loading source file /Users/torontoraptors/Desktop/I wanna Pikachu/Blood.java...
+Loading source file /Users/torontoraptors/Desktop/I wanna Pikachu/Pikachu.java...
+Loading source file /Users/torontoraptors/Desktop/I wanna Pikachu/Apple.java...
+Loading source file /Users/torontoraptors/Desktop/I wanna Pikachu/Cloud.java...
+Loading source file /Users/torontoraptors/Desktop/I wanna Pikachu/Demage.java...
+Loading source file /Users/torontoraptors/Desktop/I wanna Pikachu/ground.java...
+Loading source file /Users/torontoraptors/Desktop/I wanna Pikachu/MyWorld.java...
+1 error

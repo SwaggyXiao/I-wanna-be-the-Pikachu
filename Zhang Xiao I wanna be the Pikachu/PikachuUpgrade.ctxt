@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PikachuUpgrade
+comment0.text=\n\ Write\ a\ description\ of\ class\ shengji\u5347\u7EA7\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=PikachuUpgrade()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=int\ price()
+numComments=4

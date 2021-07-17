@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MyShop
+comment1.params=m
+comment1.target=MyShop(MyWorld)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ clicking()
+comment4.params=str\ price
+comment4.target=void\ addChattingBox(java.lang.String,\ int)
+numComments=5

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Rock
+comment1.params=a
+comment1.target=Rock(greenfoot.Actor)
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ detectThunder()
+comment5.params=d
+comment5.target=void\ detectGengar(int)
+comment6.params=a\ b
+comment6.target=float\ getDistance(greenfoot.Actor,\ greenfoot.Actor)
+numComments=7

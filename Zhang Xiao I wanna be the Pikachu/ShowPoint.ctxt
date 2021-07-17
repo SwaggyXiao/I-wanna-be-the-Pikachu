@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ShowPoint
+comment0.text=\n\ Write\ a\ description\ of\ class\ showPoint\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=pointsGet
+comment1.target=ShowPoint(int)
+comment2.params=pointsGet
+comment2.target=void\ updatePoint(int)
+numComments=3
