@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EndReport
+comment0.text=\n\ Write\ a\ description\ of\ class\ EndReport\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=timer\ killRock\ points\ energy
+comment1.target=EndReport(int,\ int,\ int,\ int)
+numComments=2

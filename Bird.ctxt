@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Bird
+comment0.text=\n\ Write\ a\ description\ of\ class\ Bird\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=a
+comment1.target=Bird(greenfoot.Actor)
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=a\ b
+comment4.target=float\ getDistance(greenfoot.Actor,\ greenfoot.Actor)
+comment5.params=
+comment5.target=void\ disappear()
+numComments=6

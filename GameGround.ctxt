@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=GameGround
+comment1.params=
+comment1.target=GameGround()
+comment2.params=speed
+comment2.target=void\ move(int)
+numComments=3

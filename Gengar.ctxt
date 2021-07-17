@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Gengar
+comment1.params=a
+comment1.target=Gengar(greenfoot.Actor)
+comment10.params=a\ x\ y
+comment10.target=float\ getDistance(greenfoot.Actor,\ double,\ double)
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ addTheBat()
+comment5.params=
+comment5.target=void\ targetClosestRock()
+comment6.params=theX\ theY\ rockSpeed
+comment6.target=void\ move(int,\ int,\ int)
+comment6.text=\n\ \n\ \n\ \n\ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Credic\ to\ Mr.\ Cohen\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ I\ literally\ can\ not\ make\ that\ code\ lol\n\ \n\ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Certificate\ of\ bug\ simulation\ (IDK\ if\ u\ can\ see\ this\ comment\ haha)\n\ \n\ \n
+comment7.params=
+comment7.target=void\ catchTheRock()
+comment8.params=theX\ theY\ a\ b
+comment8.target=void\ goBackToPikachu(int,\ int,\ greenfoot.GreenfootImage,\ greenfoot.GreenfootImage)
+comment9.params=a\ b
+comment9.target=float\ getDistance(greenfoot.Actor,\ greenfoot.Actor)
+numComments=11

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Cashier
+comment0.text=\n\ Write\ a\ description\ of\ class\ Cashier\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=Buy\ price\ a
+comment1.target=Cashier(java.lang.String,\ int,\ greenfoot.Actor)
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ clickYes()
+comment5.params=
+comment5.target=void\ differentProduct()
+comment6.params=price
+comment6.target=void\ checkingRebought(int)
+numComments=7

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BlackDemage
+comment0.text=\n\ Write\ a\ description\ of\ class\ BlackDemage\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=a
+comment1.target=BlackDemage(greenfoot.Actor)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=a\ b
+comment3.target=float\ getDistance(greenfoot.Actor,\ greenfoot.Actor)
+numComments=4
